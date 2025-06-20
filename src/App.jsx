@@ -1,0 +1,14 @@
+import './App.css'
+import Baitap1 from './baitap1'
+import Baitap2 from './Baitap2'
+
+function App() {
+
+  return (
+    <div>
+      <Baitap2 />
+    </div>
+  )
+}
+
+export default App;
